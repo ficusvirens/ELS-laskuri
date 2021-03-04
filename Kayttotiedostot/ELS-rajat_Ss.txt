@@ -1,0 +1,7 @@
+	secchi	ntot	ptot	chla	BBI
+VA	5.4	260	16	2.2	1
+Ehy	4.5	305	20	2.8	0.87
+HyT	3.5	350	24	3.5	0.52
+TV	2.3	440	30	7.5	0.35
+Vhu	1.1	570	48	18	0.17
+HuAlaraja	NA	NA	NA	140	0

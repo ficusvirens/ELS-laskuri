@@ -1,0 +1,403 @@
+asema	HPNimi	pvm	Nostin	NäyteID	LajiID	nimi	lukumäärä	biomassa
+4	Vanhankaupunginselkä	2012-10-10	Ekman-Birge. nykyinen	12001	5100	Ei nimeä	6.6	0
+4	Vanhankaupunginselkä	2012-10-10	Ekman-Birge. nykyinen	12001	22306	Marenzelleria spp.	26.4	0.29
+4	Vanhankaupunginselkä	2012-10-10	Ekman-Birge. nykyinen	12001	32400	Oligochaeta	2884.49	0.84
+4	Vanhankaupunginselkä	2012-10-10	Ekman-Birge. nykyinen	12001	43401	Gammarus sp.	6.6	0.02
+4	Vanhankaupunginselkä	2012-10-10	Ekman-Birge. nykyinen	12001	43463	Monoporeia affinis	13.2	0
+4	Vanhankaupunginselkä	2012-10-10	Ekman-Birge. nykyinen	12001	53740	Chironomus spp.	930.69	9.23
+4	Vanhankaupunginselkä	2012-10-10	Ekman-Birge. nykyinen	12001	64066	Potamopyrgus antipodarum	26.4	0.02
+4	Vanhankaupunginselkä	2012-10-10	Ekman-Birge. nykyinen	12001	64068	Bithynia tentaculata	6.6	0
+4	Vanhankaupunginselkä	2012-10-10	Ekman-Birge. nykyinen	12001	64299	Gastropoda	6.6	0
+4	Vanhankaupunginselkä	2012-10-10	Ekman-Birge. nykyinen	12001	74412	Macoma balthica	112.21	0.14
+4	Vanhankaupunginselkä	2013-09-09	Ekman-Birge. nykyinen	13008	22305	Manayunchia aestuarina	13.2	0
+4	Vanhankaupunginselkä	2013-09-09	Ekman-Birge. nykyinen	13008	22306	Marenzelleria spp.	19.8	0.14
+4	Vanhankaupunginselkä	2013-09-09	Ekman-Birge. nykyinen	13008	32400	Oligochaeta	3762.38	1.25
+4	Vanhankaupunginselkä	2013-09-09	Ekman-Birge. nykyinen	13008	43401	Gammarus sp.	19.8	0.01
+4	Vanhankaupunginselkä	2013-09-09	Ekman-Birge. nykyinen	13008	53740	Chironomus spp.	1920.79	12.87
+4	Vanhankaupunginselkä	2013-09-09	Ekman-Birge. nykyinen	13008	64066	Potamopyrgus antipodarum	13.2	0
+4	Vanhankaupunginselkä	2013-09-09	Ekman-Birge. nykyinen	13008	74412	Macoma balthica	99.01	4.63
+4	Vanhankaupunginselkä	2014-09-01	Ekman-Birge. nykyinen	14004	32400	Oligochaeta	2666.67	1.19
+4	Vanhankaupunginselkä	2014-09-01	Ekman-Birge. nykyinen	14004	43108	Neomysis integer	79.21	0.48
+4	Vanhankaupunginselkä	2014-09-01	Ekman-Birge. nykyinen	14004	43401	Gammarus sp.	6.6	0
+4	Vanhankaupunginselkä	2014-09-01	Ekman-Birge. nykyinen	14004	53740	Chironomus spp.	3280.53	11.56
+4	Vanhankaupunginselkä	2014-09-01	Ekman-Birge. nykyinen	14004	74412	Macoma balthica	52.81	2.89
+018P	Vasikkasaari	2012-10-10	Ekman-Birge. nykyinen	12013	22062	Hediste diversicolor	13.2	0.87
+018P	Vasikkasaari	2012-10-10	Ekman-Birge. nykyinen	12013	22305	Manayunchia aestuarina	6.6	0
+018P	Vasikkasaari	2012-10-10	Ekman-Birge. nykyinen	12013	22306	Marenzelleria spp.	151.82	0.8
+018P	Vasikkasaari	2012-10-10	Ekman-Birge. nykyinen	12013	32400	Oligochaeta	79.21	0.01
+018P	Vasikkasaari	2012-10-10	Ekman-Birge. nykyinen	12013	43108	Neomysis integer	6.6	0
+018P	Vasikkasaari	2012-10-10	Ekman-Birge. nykyinen	12013	43302	Saduria entomon	6.6	8.35
+018P	Vasikkasaari	2012-10-10	Ekman-Birge. nykyinen	12013	43521	Corophium volutator	6.6	0
+018P	Vasikkasaari	2012-10-10	Ekman-Birge. nykyinen	12013	53740	Chironomus spp.	1320.13	3.73
+018P	Vasikkasaari	2012-10-10	Ekman-Birge. nykyinen	12013	64066	Potamopyrgus antipodarum	39.6	0.03
+018P	Vasikkasaari	2012-10-10	Ekman-Birge. nykyinen	12013	74412	Macoma balthica	475.25	34.59
+018P	Vasikkasaari	2013-09-09	Ekman-Birge. nykyinen	13019	11402	Halicryptus spinulosus	6.6	0
+018P	Vasikkasaari	2013-09-09	Ekman-Birge. nykyinen	13019	22305	Manayunchia aestuarina	46.2	0
+018P	Vasikkasaari	2013-09-09	Ekman-Birge. nykyinen	13019	22306	Marenzelleria spp.	343.23	1.82
+018P	Vasikkasaari	2013-09-09	Ekman-Birge. nykyinen	13019	32400	Oligochaeta	99.01	0.05
+018P	Vasikkasaari	2013-09-09	Ekman-Birge. nykyinen	13019	43102	Mysis relicta	6.6	0
+018P	Vasikkasaari	2013-09-09	Ekman-Birge. nykyinen	13019	43302	Saduria entomon	6.6	27.5
+018P	Vasikkasaari	2013-09-09	Ekman-Birge. nykyinen	13019	43521	Corophium volutator	6.6	0.03
+018P	Vasikkasaari	2013-09-09	Ekman-Birge. nykyinen	13019	53740	Chironomus spp.	488.45	6.86
+018P	Vasikkasaari	2013-09-09	Ekman-Birge. nykyinen	13019	64066	Potamopyrgus antipodarum	13.2	0.03
+018P	Vasikkasaari	2013-09-09	Ekman-Birge. nykyinen	13019	74412	Macoma balthica	389.44	50.76
+25	Vartiokylänlahti	2012-09-26	Ekman-Birge. nykyinen	12015	32400	Oligochaeta	963.7	0.19
+25	Vartiokylänlahti	2012-09-26	Ekman-Birge. nykyinen	12015	53740	Chironomus spp.	402.64	5.48
+25	Vartiokylänlahti	2012-09-26	Ekman-Birge. nykyinen	12015	64066	Potamopyrgus antipodarum	52.81	0.08
+25	Vartiokylänlahti	2012-09-26	Ekman-Birge. nykyinen	12015	74412	Macoma balthica	237.62	0.21
+25	Vartiokylänlahti	2013-09-16	Ekman-Birge. nykyinen	13016	22062	Hediste diversicolor	6.6	0.01
+25	Vartiokylänlahti	2013-09-16	Ekman-Birge. nykyinen	13016	32400	Oligochaeta	1287.13	0.38
+25	Vartiokylänlahti	2013-09-16	Ekman-Birge. nykyinen	13016	43521	Corophium volutator	6.6	0.02
+25	Vartiokylänlahti	2013-09-16	Ekman-Birge. nykyinen	13016	53740	Chironomus spp.	660.07	9.23
+25	Vartiokylänlahti	2013-09-16	Ekman-Birge. nykyinen	13016	64066	Potamopyrgus antipodarum	6.6	0.07
+25	Vartiokylänlahti	2013-09-16	Ekman-Birge. nykyinen	13016	64170	Embletonetonia pallida	6.6	0
+25	Vartiokylänlahti	2013-09-16	Ekman-Birge. nykyinen	13016	74412	Macoma balthica	679.87	3.58
+25	Vartiokylänlahti	2014-11-05	Ekman-Birge. nykyinen	14014	11402	Halicryptus spinulosus	6.6	0.04
+25	Vartiokylänlahti	2014-11-05	Ekman-Birge. nykyinen	14014	22306	Marenzelleria spp.	6.6	0.32
+25	Vartiokylänlahti	2014-11-05	Ekman-Birge. nykyinen	14014	32400	Oligochaeta	1353.14	0.67
+25	Vartiokylänlahti	2014-11-05	Ekman-Birge. nykyinen	14014	43401	Gammarus sp.	46.2	0
+25	Vartiokylänlahti	2014-11-05	Ekman-Birge. nykyinen	14014	53740	Chironomus spp.	217.82	2.71
+25	Vartiokylänlahti	2014-11-05	Ekman-Birge. nykyinen	14014	64066	Potamopyrgus antipodarum	66.01	0.04
+25	Vartiokylänlahti	2014-11-05	Ekman-Birge. nykyinen	14014	74412	Macoma balthica	99.01	0.21
+57	Kytön väylä	2013-11-20	van Veen	13015	11402	Halicryptus spinulosus	45	0.04
+57	Kytön väylä	2013-11-20	van Veen	13015	22306	Marenzelleria spp.	1359.14	0.68
+57	Kytön väylä	2013-11-20	van Veen	13015	32400	Oligochaeta	711.07	0.01
+57	Kytön väylä	2013-11-20	van Veen	13015	43463	Monoporeia affinis	81.01	0.15
+57	Kytön väylä	2013-11-20	van Veen	13015	74412	Macoma balthica	360.04	28.89
+57	Kytön väylä	2014-09-18	van Veen	14005	11402	Halicryptus spinulosus	27	0.02
+57	Kytön väylä	2014-09-18	van Veen	14005	22306	Marenzelleria spp.	1467.15	5.59
+57	Kytön väylä	2014-09-18	van Veen	14005	32400	Oligochaeta	102.01	0.03
+57	Kytön väylä	2014-09-18	van Veen	14005	43108	Neomysis integer	3	0
+57	Kytön väylä	2014-09-18	van Veen	14005	43302	Saduria entomon	24	15.53
+57	Kytön väylä	2014-09-18	van Veen	14005	43401	Gammarus sp.	9	0
+57	Kytön väylä	2014-09-18	van Veen	14005	43463	Monoporeia affinis	525.05	1.47
+57	Kytön väylä	2014-09-18	van Veen	14005	64060	Hydrobia sp.	3	0
+57	Kytön väylä	2014-09-18	van Veen	14005	74412	Macoma balthica	411.04	70.44
+87	Laajalahti	2012-09-12	Ekman-Birge. nykyinen	12014	32400	Oligochaeta	3141.91	0.74
+87	Laajalahti	2012-09-12	Ekman-Birge. nykyinen	12014	43108	Neomysis integer	13.2	0
+87	Laajalahti	2012-09-12	Ekman-Birge. nykyinen	12014	43401	Gammarus sp.	6.6	0
+87	Laajalahti	2012-09-12	Ekman-Birge. nykyinen	12014	53740	Chironomus spp.	1102.31	29.2
+87	Laajalahti	2012-09-12	Ekman-Birge. nykyinen	12014	64066	Potamopyrgus antipodarum	19.8	0.08
+87	Laajalahti	2012-09-12	Ekman-Birge. nykyinen	12014	74412	Macoma balthica	19.8	0.02
+87	Laajalahti	2013-09-05	Ekman-Birge. nykyinen	13018	22062	Hediste diversicolor	6.6	0
+87	Laajalahti	2013-09-05	Ekman-Birge. nykyinen	13018	22306	Marenzelleria spp.	6.6	0.02
+87	Laajalahti	2013-09-05	Ekman-Birge. nykyinen	13018	32400	Oligochaeta	5306.93	1.76
+87	Laajalahti	2013-09-05	Ekman-Birge. nykyinen	13018	43401	Gammarus sp.	19.8	0.02
+87	Laajalahti	2013-09-05	Ekman-Birge. nykyinen	13018	53740	Chironomus spp.	1557.76	16.48
+87	Laajalahti	2013-09-05	Ekman-Birge. nykyinen	13018	64066	Potamopyrgus antipodarum	39.6	0.06
+87	Laajalahti	2014-09-17	Ekman-Birge. nykyinen	14013	32400	Oligochaeta	5947.19	1.08
+87	Laajalahti	2014-09-17	Ekman-Birge. nykyinen	14013	53740	Chironomus spp.	1749.17	18.8
+87	Laajalahti	2014-09-17	Ekman-Birge. nykyinen	14013	64066	Potamopyrgus antipodarum	132.01	0.75
+111P	Skatanselkä	2012-10-17	van Veen	12012	11303	Prostoma obscurum	6	0.02
+111P	Skatanselkä	2012-10-17	van Veen	12012	11402	Halicryptus spinulosus	6	0.02
+111P	Skatanselkä	2012-10-17	van Veen	12012	22062	Hediste diversicolor	3	0.25
+111P	Skatanselkä	2012-10-17	van Veen	12012	22305	Manayunchia aestuarina	24	0
+111P	Skatanselkä	2012-10-17	van Veen	12012	22306	Marenzelleria spp.	21	0.14
+111P	Skatanselkä	2012-10-17	van Veen	12012	32400	Oligochaeta	810.08	0.28
+111P	Skatanselkä	2012-10-17	van Veen	12012	43521	Corophium volutator	3	0.01
+111P	Skatanselkä	2012-10-17	van Veen	12012	53740	Chironomus spp.	798.08	5.5
+111P	Skatanselkä	2012-10-17	van Veen	12012	64060	Hydrobia sp.	36	0.25
+111P	Skatanselkä	2012-10-17	van Veen	12012	64066	Potamopyrgus antipodarum	69.01	0.08
+111P	Skatanselkä	2012-10-17	van Veen	12012	64180	Limapontia capitata	39	0.01
+111P	Skatanselkä	2012-10-17	van Veen	12012	64299	Gastropoda	3	0
+111P	Skatanselkä	2012-10-17	van Veen	12012	74412	Macoma balthica	1233.12	34.23
+111P	Skatanselkä	2013-11-06	van Veen	13020	11303	Prostoma obscurum	72.01	0.58
+111P	Skatanselkä	2013-11-06	van Veen	13020	22306	Marenzelleria spp.	15	0.89
+111P	Skatanselkä	2013-11-06	van Veen	13020	32400	Oligochaeta	648.06	0.22
+111P	Skatanselkä	2013-11-06	van Veen	13020	53740	Chironomus spp.	36	0.94
+111P	Skatanselkä	2013-11-06	van Veen	13020	64060	Hydrobia sp.	21	0.14
+111P	Skatanselkä	2013-11-06	van Veen	13020	64066	Potamopyrgus antipodarum	72.01	0.19
+111P	Skatanselkä	2013-11-06	van Veen	13020	64180	Limapontia capitata	6	0.01
+111P	Skatanselkä	2013-11-06	van Veen	13020	74412	Macoma balthica	399.04	42.33
+113	Granö	2012-09-26	Ekman-Birge. nykyinen	12017	32400	Oligochaeta	369.64	0.19
+113	Granö	2012-09-26	Ekman-Birge. nykyinen	12017	53740	Chironomus spp.	917.49	4.97
+113	Granö	2012-09-26	Ekman-Birge. nykyinen	12017	64066	Potamopyrgus antipodarum	6.6	0
+113	Granö	2012-09-26	Ekman-Birge. nykyinen	12017	74412	Macoma balthica	85.81	0.07
+1142	Itäinen ulkosaaristo	2012-10-23	van Veen	12002	11402	Halicryptus spinulosus	168.02	2.48
+1142	Itäinen ulkosaaristo	2012-10-23	van Veen	12002	22000	Polychaeta	6	0
+1142	Itäinen ulkosaaristo	2012-10-23	van Veen	12002	22306	Marenzelleria spp.	708.07	1.61
+1142	Itäinen ulkosaaristo	2012-10-23	van Veen	12002	32400	Oligochaeta	882.09	0.19
+1142	Itäinen ulkosaaristo	2012-10-23	van Veen	12002	43108	Neomysis integer	3	0
+1142	Itäinen ulkosaaristo	2012-10-23	van Veen	12002	43302	Saduria entomon	21	29.57
+1142	Itäinen ulkosaaristo	2012-10-23	van Veen	12002	43305	Jaera albifrons	21	0.01
+1142	Itäinen ulkosaaristo	2012-10-23	van Veen	12002	43401	Gammarus sp.	12	0.01
+1142	Itäinen ulkosaaristo	2012-10-23	van Veen	12002	43463	Monoporeia affinis	156.02	0.89
+1142	Itäinen ulkosaaristo	2012-10-23	van Veen	12002	64066	Potamopyrgus antipodarum	6	0.01
+1142	Itäinen ulkosaaristo	2012-10-23	van Veen	12002	64068	Bithynia tentaculata	3	0
+1142	Itäinen ulkosaaristo	2012-10-23	van Veen	12002	64299	Gastropoda	0	0
+1142	Itäinen ulkosaaristo	2012-10-23	van Veen	12002	74412	Macoma balthica	1323.13	78.52
+1142	Itäinen ulkosaaristo	2013-10-17	van Veen	13013	11402	Halicryptus spinulosus	189.02	9.04
+1142	Itäinen ulkosaaristo	2013-10-17	van Veen	13013	22306	Marenzelleria spp.	1629.16	5.72
+1142	Itäinen ulkosaaristo	2013-10-17	van Veen	13013	32400	Oligochaeta	747.07	0.43
+1142	Itäinen ulkosaaristo	2013-10-17	van Veen	13013	43302	Saduria entomon	18	8.84
+1142	Itäinen ulkosaaristo	2013-10-17	van Veen	13013	43305	Jaera albifrons	9	0
+1142	Itäinen ulkosaaristo	2013-10-17	van Veen	13013	43401	Gammarus sp.	18	0.27
+1142	Itäinen ulkosaaristo	2013-10-17	van Veen	13013	43463	Monoporeia affinis	306.03	0.95
+1142	Itäinen ulkosaaristo	2013-10-17	van Veen	13013	74412	Macoma balthica	1746.17	206.02
+1142	Itäinen ulkosaaristo	2014-09-02	van Veen	14007	11402	Halicryptus spinulosus	120.01	3.7
+1142	Itäinen ulkosaaristo	2014-09-02	van Veen	14007	22305	Manayunchia aestuarina	3	0
+1142	Itäinen ulkosaaristo	2014-09-02	van Veen	14007	22306	Marenzelleria spp.	1743.17	5.9
+1142	Itäinen ulkosaaristo	2014-09-02	van Veen	14007	32400	Oligochaeta	471.05	0.15
+1142	Itäinen ulkosaaristo	2014-09-02	van Veen	14007	43302	Saduria entomon	18	12.71
+1142	Itäinen ulkosaaristo	2014-09-02	van Veen	14007	43305	Jaera albifrons	3	0
+1142	Itäinen ulkosaaristo	2014-09-02	van Veen	14007	43401	Gammarus sp.	6	0
+1142	Itäinen ulkosaaristo	2014-09-02	van Veen	14007	43463	Monoporeia affinis	180.02	0.51
+1142	Itäinen ulkosaaristo	2014-09-02	van Veen	14007	74412	Macoma balthica	2688.27	117.32
+1171	Ryssjeholmsfjärden	2012-10-10	Ekman-Birge. nykyinen	12003	11303	Prostoma obscurum	132.01	0.33
+1171	Ryssjeholmsfjärden	2012-10-10	Ekman-Birge. nykyinen	12003	22306	Marenzelleria spp.	6.6	0.06
+1171	Ryssjeholmsfjärden	2012-10-10	Ekman-Birge. nykyinen	12003	32400	Oligochaeta	864.69	0.39
+1171	Ryssjeholmsfjärden	2012-10-10	Ekman-Birge. nykyinen	12003	53740	Chironomus spp.	151.82	4.77
+1171	Ryssjeholmsfjärden	2012-10-10	Ekman-Birge. nykyinen	12003	53999	Insecta larvae	6.6	0.02
+1171	Ryssjeholmsfjärden	2012-10-10	Ekman-Birge. nykyinen	12003	64066	Potamopyrgus antipodarum	138.61	0.38
+1171	Ryssjeholmsfjärden	2012-10-10	Ekman-Birge. nykyinen	12003	64299	Gastropoda	6.6	0
+1171	Ryssjeholmsfjärden	2012-10-10	Ekman-Birge. nykyinen	12003	74412	Macoma balthica	237.62	0.23
+1171	Ryssjeholmsfjärden	2013-10-10	Ekman-Birge. nykyinen	13009	11303	Prostoma obscurum	145.21	0.21
+1171	Ryssjeholmsfjärden	2013-10-10	Ekman-Birge. nykyinen	13009	22062	Hediste diversicolor	19.8	0.21
+1171	Ryssjeholmsfjärden	2013-10-10	Ekman-Birge. nykyinen	13009	22305	Manayunchia aestuarina	19.8	0
+1171	Ryssjeholmsfjärden	2013-10-10	Ekman-Birge. nykyinen	13009	22306	Marenzelleria spp.	6.6	0.16
+1171	Ryssjeholmsfjärden	2013-10-10	Ekman-Birge. nykyinen	13009	32400	Oligochaeta	178.22	0.01
+1171	Ryssjeholmsfjärden	2013-10-10	Ekman-Birge. nykyinen	13009	64066	Potamopyrgus antipodarum	6.6	0
+1171	Ryssjeholmsfjärden	2013-10-10	Ekman-Birge. nykyinen	13009	64180	Limapontia capitata	39.6	0.01
+1171	Ryssjeholmsfjärden	2013-10-10	Ekman-Birge. nykyinen	13009	74364	Cerastoderma glaucum	6.6	0.01
+1171	Ryssjeholmsfjärden	2013-10-10	Ekman-Birge. nykyinen	13009	74412	Macoma balthica	231.02	8.85
+1171	Ryssjeholmsfjärden	2014-10-03	Ekman-Birge. nykyinen	14003	11303	Prostoma obscurum	26.4	0.02
+1171	Ryssjeholmsfjärden	2014-10-03	Ekman-Birge. nykyinen	14003	22062	Hediste diversicolor	33	2.73
+1171	Ryssjeholmsfjärden	2014-10-03	Ekman-Birge. nykyinen	14003	22306	Marenzelleria spp.	79.21	3.84
+1171	Ryssjeholmsfjärden	2014-10-03	Ekman-Birge. nykyinen	14003	32400	Oligochaeta	435.64	0.3
+1171	Ryssjeholmsfjärden	2014-10-03	Ekman-Birge. nykyinen	14003	53740	Chironomus spp.	33	0.02
+1171	Ryssjeholmsfjärden	2014-10-03	Ekman-Birge. nykyinen	14003	64060	Hydrobia sp.	6.6	0.01
+1171	Ryssjeholmsfjärden	2014-10-03	Ekman-Birge. nykyinen	14003	64066	Potamopyrgus antipodarum	46.2	0.17
+1171	Ryssjeholmsfjärden	2014-10-03	Ekman-Birge. nykyinen	14003	74412	Macoma balthica	184.82	4.8
+123	Stora Mickelskären	2012-11-26	van Veen	12005	11402	Halicryptus spinulosus	15	0.06
+123	Stora Mickelskären	2012-11-26	van Veen	12005	22306	Marenzelleria spp.	636.06	2.86
+123	Stora Mickelskären	2012-11-26	van Veen	12005	32400	Oligochaeta	165.02	0.01
+123	Stora Mickelskären	2012-11-26	van Veen	12005	43302	Saduria entomon	21	15.61
+123	Stora Mickelskären	2012-11-26	van Veen	12005	43401	Gammarus sp.	3	0
+123	Stora Mickelskären	2012-11-26	van Veen	12005	43463	Monoporeia affinis	24	0.18
+123	Stora Mickelskären	2012-11-26	van Veen	12005	64299	Gastropoda	6	0
+123	Stora Mickelskären	2012-11-26	van Veen	12005	74318	Mytilus trossulus	15	0.03
+123	Stora Mickelskären	2012-11-26	van Veen	12005	74412	Macoma balthica	750.08	23.58
+123	Stora Mickelskären	2013-10-21	van Veen	13004	11402	Halicryptus spinulosus	3	0
+123	Stora Mickelskären	2013-10-21	van Veen	13004	22306	Marenzelleria spp.	513.05	25.12
+123	Stora Mickelskären	2013-10-21	van Veen	13004	32400	Oligochaeta	27	0
+123	Stora Mickelskären	2013-10-21	van Veen	13004	43108	Neomysis integer	6	0
+123	Stora Mickelskären	2013-10-21	van Veen	13004	43401	Gammarus sp.	3	0
+123	Stora Mickelskären	2013-10-21	van Veen	13004	43463	Monoporeia affinis	9	0.01
+123	Stora Mickelskären	2013-10-21	van Veen	13004	74412	Macoma balthica	210.02	29.73
+123	Stora Mickelskären	2014-09-16	van Veen	14006	11402	Halicryptus spinulosus	30	0.01
+123	Stora Mickelskären	2014-09-16	van Veen	14006	22306	Marenzelleria spp.	4362.44	17.43
+123	Stora Mickelskären	2014-09-16	van Veen	14006	32400	Oligochaeta	159.02	0.01
+123	Stora Mickelskären	2014-09-16	van Veen	14006	43302	Saduria entomon	3	3.13
+123	Stora Mickelskären	2014-09-16	van Veen	14006	43463	Monoporeia affinis	12	0.06
+123	Stora Mickelskären	2014-09-16	van Veen	14006	74412	Macoma balthica	105.01	18.28
+1259	Katajaluoto	2012-10-29	van Veen	12007	11402	Halicryptus spinulosus	93.01	10.42
+1259	Katajaluoto	2012-10-29	van Veen	12007	22062	Hediste diversicolor	6	0.01
+1259	Katajaluoto	2012-10-29	van Veen	12007	22306	Marenzelleria spp.	3054.31	10.86
+1259	Katajaluoto	2012-10-29	van Veen	12007	32400	Oligochaeta	132.01	0.04
+1259	Katajaluoto	2012-10-29	van Veen	12007	43302	Saduria entomon	12	3.64
+1259	Katajaluoto	2012-10-29	van Veen	12007	43401	Gammarus sp.	3	0
+1259	Katajaluoto	2012-10-29	van Veen	12007	43463	Monoporeia affinis	54.01	0.3
+1259	Katajaluoto	2012-10-29	van Veen	12007	43521	Corophium volutator	3	0.01
+1259	Katajaluoto	2012-10-29	van Veen	12007	53740	Chironomus spp.	3	0
+1259	Katajaluoto	2012-10-29	van Veen	12007	64066	Potamopyrgus antipodarum	3	0
+1259	Katajaluoto	2012-10-29	van Veen	12007	64299	Gastropoda	3	0
+1259	Katajaluoto	2012-10-29	van Veen	12007	74412	Macoma balthica	2541.25	189.19
+1259	Katajaluoto	2013-11-20	van Veen	13006	11402	Halicryptus spinulosus	123.01	3.6
+1259	Katajaluoto	2013-11-20	van Veen	13006	22306	Marenzelleria spp.	669.07	3.4
+1259	Katajaluoto	2013-11-20	van Veen	13006	32400	Oligochaeta	90.01	0.01
+1259	Katajaluoto	2013-11-20	van Veen	13006	43302	Saduria entomon	9	8.85
+1259	Katajaluoto	2013-11-20	van Veen	13006	43463	Monoporeia affinis	45	0.13
+1259	Katajaluoto	2013-11-20	van Veen	13006	43521	Corophium volutator	3	0.01
+1259	Katajaluoto	2013-11-20	van Veen	13006	64066	Potamopyrgus antipodarum	3	0
+1259	Katajaluoto	2013-11-20	van Veen	13006	74412	Macoma balthica	1206.12	131.87
+1259	Katajaluoto	2014-11-12	van Veen	14008	11402	Halicryptus spinulosus	78.01	2.33
+1259	Katajaluoto	2014-11-12	van Veen	14008	22062	Hediste diversicolor	3	0.39
+1259	Katajaluoto	2014-11-12	van Veen	14008	22305	Manayunchia aestuarina	3	0
+1259	Katajaluoto	2014-11-12	van Veen	14008	22306	Marenzelleria spp.	1419.14	5.9
+1259	Katajaluoto	2014-11-12	van Veen	14008	32400	Oligochaeta	177.02	0.03
+1259	Katajaluoto	2014-11-12	van Veen	14008	43302	Saduria entomon	12	9.18
+1259	Katajaluoto	2014-11-12	van Veen	14008	43401	Gammarus sp.	3	0
+1259	Katajaluoto	2014-11-12	van Veen	14008	43463	Monoporeia affinis	24	0.1
+1259	Katajaluoto	2014-11-12	van Veen	14008	43521	Corophium volutator	12	0.01
+1259	Katajaluoto	2014-11-12	van Veen	14008	64066	Potamopyrgus antipodarum	3	0
+1259	Katajaluoto	2014-11-12	van Veen	14008	74318	Mytilus trossulus	6	0.32
+1259	Katajaluoto	2014-11-12	van Veen	14008	74412	Macoma balthica	984.1	63.26
+125P	Katajaluoto	2012-10-29	van Veen	12006	5100	Ei nimeä	6	0
+125P	Katajaluoto	2012-10-29	van Veen	12006	11402	Halicryptus spinulosus	99.01	6.49
+125P	Katajaluoto	2012-10-29	van Veen	12006	22306	Marenzelleria spp.	570.06	1.84
+125P	Katajaluoto	2012-10-29	van Veen	12006	32400	Oligochaeta	321.03	0.07
+125P	Katajaluoto	2012-10-29	van Veen	12006	43108	Neomysis integer	9	0.03
+125P	Katajaluoto	2012-10-29	van Veen	12006	43302	Saduria entomon	21	33.93
+125P	Katajaluoto	2012-10-29	van Veen	12006	43401	Gammarus sp.	48	0.06
+125P	Katajaluoto	2012-10-29	van Veen	12006	43463	Monoporeia affinis	9	0.1
+125P	Katajaluoto	2012-10-29	van Veen	12006	43521	Corophium volutator	18	0.01
+125P	Katajaluoto	2012-10-29	van Veen	12006	64066	Potamopyrgus antipodarum	129.01	0.22
+125P	Katajaluoto	2012-10-29	van Veen	12006	64299	Gastropoda	18	0.02
+125P	Katajaluoto	2012-10-29	van Veen	12006	74318	Mytilus trossulus	15	0.01
+125P	Katajaluoto	2012-10-29	van Veen	12006	74412	Macoma balthica	1134.11	132.51
+125P	Katajaluoto	2013-11-25	van Veen	13007	11303	Prostoma obscurum	3	0
+125P	Katajaluoto	2013-11-25	van Veen	13007	11402	Halicryptus spinulosus	297.03	1.5
+125P	Katajaluoto	2013-11-25	van Veen	13007	22305	Manayunchia aestuarina	3	0
+125P	Katajaluoto	2013-11-25	van Veen	13007	22306	Marenzelleria spp.	798.08	1.73
+125P	Katajaluoto	2013-11-25	van Veen	13007	32400	Oligochaeta	726.07	0.12
+125P	Katajaluoto	2013-11-25	van Veen	13007	43302	Saduria entomon	3	4.54
+125P	Katajaluoto	2013-11-25	van Veen	13007	43401	Gammarus sp.	3	0
+125P	Katajaluoto	2013-11-25	van Veen	13007	43463	Monoporeia affinis	33	0.18
+125P	Katajaluoto	2013-11-25	van Veen	13007	53740	Chironomus spp.	3	0.01
+125P	Katajaluoto	2013-11-25	van Veen	13007	64180	Limapontia capitata	9	0.01
+125P	Katajaluoto	2013-11-25	van Veen	13007	74412	Macoma balthica	3915.39	57.37
+125P	Katajaluoto	2014-11-12	van Veen	14001	11402	Halicryptus spinulosus	72.01	3.96
+125P	Katajaluoto	2014-11-12	van Veen	14001	22306	Marenzelleria spp.	1107.11	4.33
+125P	Katajaluoto	2014-11-12	van Veen	14001	32400	Oligochaeta	957.1	0.3
+125P	Katajaluoto	2014-11-12	van Veen	14001	43463	Monoporeia affinis	21	0.15
+125P	Katajaluoto	2014-11-12	van Veen	14001	43521	Corophium volutator	12	0
+125P	Katajaluoto	2014-11-12	van Veen	14001	53740	Chironomus spp.	3	0
+125P	Katajaluoto	2014-11-12	van Veen	14001	64060	Hydrobia sp.	3	0.03
+125P	Katajaluoto	2014-11-12	van Veen	14001	64066	Potamopyrgus antipodarum	45	0.07
+125P	Katajaluoto	2014-11-12	van Veen	14001	64180	Limapontia capitata	24	0.01
+125P	Katajaluoto	2014-11-12	van Veen	14001	74318	Mytilus trossulus	3	0
+125P	Katajaluoto	2014-11-12	van Veen	14001	74412	Macoma balthica	786.08	130.65
+147P	Knaperskär	2012-11-27	van Veen	12008	11402	Halicryptus spinulosus	33	0
+147P	Knaperskär	2012-11-27	van Veen	12008	22306	Marenzelleria spp.	246.02	1.92
+147P	Knaperskär	2012-11-27	van Veen	12008	32400	Oligochaeta	489.05	0.01
+147P	Knaperskär	2012-11-27	van Veen	12008	43302	Saduria entomon	18	13.27
+147P	Knaperskär	2012-11-27	van Veen	12008	43463	Monoporeia affinis	6	0.04
+147P	Knaperskär	2012-11-27	van Veen	12008	43521	Corophium volutator	6	0
+147P	Knaperskär	2012-11-27	van Veen	12008	53740	Chironomus spp.	6	0.01
+147P	Knaperskär	2012-11-27	van Veen	12008	64066	Potamopyrgus antipodarum	3	0
+147P	Knaperskär	2012-11-27	van Veen	12008	64299	Gastropoda	3	0
+147P	Knaperskär	2012-11-27	van Veen	12008	74412	Macoma balthica	378.04	35.05
+147P	Knaperskär	2013-11-20	van Veen	13014	11402	Halicryptus spinulosus	27	0.53
+147P	Knaperskär	2013-11-20	van Veen	13014	22305	Manayunchia aestuarina	4.5	0
+147P	Knaperskär	2013-11-20	van Veen	13014	22306	Marenzelleria spp.	1116.11	4.3
+147P	Knaperskär	2013-11-20	van Veen	13014	32400	Oligochaeta	805.58	0.34
+147P	Knaperskär	2013-11-20	van Veen	13014	43302	Saduria entomon	58.51	20.24
+147P	Knaperskär	2013-11-20	van Veen	13014	43401	Gammarus sp.	13.5	0.01
+147P	Knaperskär	2013-11-20	van Veen	13014	43463	Monoporeia affinis	108.01	0.35
+147P	Knaperskär	2013-11-20	van Veen	13014	43521	Corophium volutator	13.5	0.01
+147P	Knaperskär	2013-11-20	van Veen	13014	64066	Potamopyrgus antipodarum	4.5	0
+147P	Knaperskär	2013-11-20	van Veen	13014	74318	Mytilus trossulus	4.5	0.64
+147P	Knaperskär	2013-11-20	van Veen	13014	74412	Macoma balthica	571.56	81.19
+147P	Knaperskär	2014-09-16	van Veen	14002	11402	Halicryptus spinulosus	66.01	0.8
+147P	Knaperskär	2014-09-16	van Veen	14002	22306	Marenzelleria spp.	1293.13	3.86
+147P	Knaperskär	2014-09-16	van Veen	14002	32400	Oligochaeta	201.02	0.02
+147P	Knaperskär	2014-09-16	van Veen	14002	43102	Mysis relicta	3	0.08
+147P	Knaperskär	2014-09-16	van Veen	14002	43108	Neomysis integer	3	0
+147P	Knaperskär	2014-09-16	van Veen	14002	43302	Saduria entomon	27	10.55
+147P	Knaperskär	2014-09-16	van Veen	14002	43463	Monoporeia affinis	72.01	0.22
+147P	Knaperskär	2014-09-16	van Veen	14002	53740	Chironomus spp.	9	0.08
+147P	Knaperskär	2014-09-16	van Veen	14002	74318	Mytilus trossulus	3	0.62
+147P	Knaperskär	2014-09-16	van Veen	14002	74412	Macoma balthica	630.06	44.79
+166	Pentarn	2012-10-23	van Veen	12009	22000	Polychaeta	3	0
+166	Pentarn	2012-10-23	van Veen	12009	22306	Marenzelleria spp.	6	0.01
+166	Pentarn	2012-10-23	van Veen	12009	32400	Oligochaeta	33	0
+166	Pentarn	2012-10-23	van Veen	12009	43100	Mysidae	3	0
+166	Pentarn	2012-10-23	van Veen	12009	43108	Neomysis integer	3	0.02
+166	Pentarn	2012-10-23	van Veen	12009	43302	Saduria entomon	9	12.85
+166	Pentarn	2012-10-23	van Veen	12009	43401	Gammarus sp.	3	0.01
+166	Pentarn	2012-10-23	van Veen	12009	74412	Macoma balthica	3	1.3
+166	Pentarn	2013-11-07	van Veen	13012	22306	Marenzelleria spp.	513.05	2.32
+166	Pentarn	2013-11-07	van Veen	13012	43302	Saduria entomon	21	30.8
+166	Pentarn	2013-11-07	van Veen	13012	74412	Macoma balthica	6	0.28
+166	Pentarn	2014-09-02	van Veen	14009	22306	Marenzelleria spp.	2424.24	25.93
+166	Pentarn	2014-09-02	van Veen	14009	32400	Oligochaeta	6	0
+166	Pentarn	2014-09-02	van Veen	14009	43401	Gammarus sp.	6	0
+166	Pentarn	2014-09-02	van Veen	14009	43463	Monoporeia affinis	6	0
+166	Pentarn	2014-09-02	van Veen	14009	74412	Macoma balthica	3	0
+181	Musta Hevonen	2012-10-17	van Veen	12010	22000	Polychaeta	3	0.01
+181	Musta Hevonen	2012-10-17	van Veen	12010	22305	Manayunchia aestuarina	3	0
+181	Musta Hevonen	2012-10-17	van Veen	12010	22306	Marenzelleria spp.	6	0.01
+181	Musta Hevonen	2012-10-17	van Veen	12010	32400	Oligochaeta	714.07	0.12
+181	Musta Hevonen	2012-10-17	van Veen	12010	43108	Neomysis integer	3	0
+181	Musta Hevonen	2012-10-17	van Veen	12010	53740	Chironomus spp.	63.01	0.97
+181	Musta Hevonen	2012-10-17	van Veen	12010	64066	Potamopyrgus antipodarum	12	0.02
+181	Musta Hevonen	2012-10-17	van Veen	12010	64299	Gastropoda	9	0.02
+181	Musta Hevonen	2012-10-17	van Veen	12010	74412	Macoma balthica	825.08	3.9
+181	Musta Hevonen	2013-11-06	van Veen	13005	22306	Marenzelleria spp.	24	0.03
+181	Musta Hevonen	2013-11-06	van Veen	13005	32400	Oligochaeta	402.04	0.03
+181	Musta Hevonen	2013-11-06	van Veen	13005	43401	Gammarus sp.	3	0
+181	Musta Hevonen	2013-11-06	van Veen	13005	53740	Chironomus spp.	12	0.09
+181	Musta Hevonen	2013-11-06	van Veen	13005	64060	Hydrobia sp.	6	0.02
+181	Musta Hevonen	2013-11-06	van Veen	13005	74412	Macoma balthica	51.01	0.04
+181	Musta Hevonen	2014-11-05	van Veen	14010	22306	Marenzelleria spp.	12	0.01
+181	Musta Hevonen	2014-11-05	van Veen	14010	32400	Oligochaeta	21	0
+181	Musta Hevonen	2014-11-05	van Veen	14010	53740	Chironomus spp.	3	0.06
+181	Musta Hevonen	2014-11-05	van Veen	14010	64066	Potamopyrgus antipodarum	3	0
+181	Musta Hevonen	2014-11-05	van Veen	14010	74412	Macoma balthica	3	0
+KL3	Kristallilahti	2013-09-09	Ekman-Birge. nykyinen	15001	53740	Chironomus spp.	567.66	2.54
+KL3	Kristallilahti	2013-09-09	Ekman-Birge. nykyinen	15001	64066	Potamopyrgus antipodarum	6.6	0
+KL3	Kristallilahti	2013-09-09	Ekman-Birge. nykyinen	15001	74412	Macoma balthica	19.8	0.02
+4	Vanhankaupunginselkä	2015-09-30	Ekman-Birge. nykyinen	154	32400	Oligochaeta	3042.9	1.84
+4	Vanhankaupunginselkä	2015-09-30	Ekman-Birge. nykyinen	154	43521	Corophium volutator	6.6	0.01
+4	Vanhankaupunginselkä	2015-09-30	Ekman-Birge. nykyinen	154	53740	Chironomus spp.	778.88	11.02
+4	Vanhankaupunginselkä	2015-09-30	Ekman-Birge. nykyinen	154	64060	Hydrobia sp.	13.2	0.05
+4	Vanhankaupunginselkä	2015-09-30	Ekman-Birge. nykyinen	154	64066	Potamopyrgus antipodarum	19.8	0.02
+4	Vanhankaupunginselkä	2015-09-30	Ekman-Birge. nykyinen	154	74318	Mytilus trossulus	6.6	0.09
+4	Vanhankaupunginselkä	2015-09-30	Ekman-Birge. nykyinen	154	74412	Macoma balthica	33	0.1
+57	Kytön väylä	2015-09-22	van Veen	1557	22306	Marenzelleria spp.	15	0.03
+57	Kytön väylä	2015-09-22	van Veen	1557	32400	Oligochaeta	132.01	0
+57	Kytön väylä	2015-09-22	van Veen	1557	43463	Monoporeia affinis	3	0.01
+57	Kytön väylä	2015-09-22	van Veen	1557	74412	Macoma balthica	153.02	0.21
+1142	Itäinen ulkosaaristo	2015-11-05	van Veen	151142	11402	Halicryptus spinulosus	171.02	6.42
+1142	Itäinen ulkosaaristo	2015-11-05	van Veen	151142	22306	Marenzelleria spp.	1332.13	8.85
+1142	Itäinen ulkosaaristo	2015-11-05	van Veen	151142	32400	Oligochaeta	675.07	0.3
+1142	Itäinen ulkosaaristo	2015-11-05	van Veen	151142	43108	Neomysis integer	3	0.01
+1142	Itäinen ulkosaaristo	2015-11-05	van Veen	151142	43302	Saduria entomon	9	4.96
+1142	Itäinen ulkosaaristo	2015-11-05	van Veen	151142	43305	Jaera albifrons	3	0
+1142	Itäinen ulkosaaristo	2015-11-05	van Veen	151142	43401	Gammarus sp.	138.01	0.04
+1142	Itäinen ulkosaaristo	2015-11-05	van Veen	151142	43463	Monoporeia affinis	240.02	1.51
+1142	Itäinen ulkosaaristo	2015-11-05	van Veen	151142	64066	Potamopyrgus antipodarum	9	0.01
+1142	Itäinen ulkosaaristo	2015-11-05	van Veen	151142	64160	Alderia modesta	9	0
+1142	Itäinen ulkosaaristo	2015-11-05	van Veen	151142	64180	Limapontia capitata	51.01	0.03
+1142	Itäinen ulkosaaristo	2015-11-05	van Veen	151142	74318	Mytilus trossulus	3	0.65
+1142	Itäinen ulkosaaristo	2015-11-05	van Veen	151142	74412	Macoma balthica	3435.34	179.97
+1171	Ryssjeholmsfjärden	2015-10-20	Ekman-Birge. nykyinen	151171	11303	Prostoma obscurum	132.01	0.16
+1171	Ryssjeholmsfjärden	2015-10-20	Ekman-Birge. nykyinen	151171	11402	Halicryptus spinulosus	6.6	0
+1171	Ryssjeholmsfjärden	2015-10-20	Ekman-Birge. nykyinen	151171	22062	Hediste diversicolor	85.81	0.34
+1171	Ryssjeholmsfjärden	2015-10-20	Ekman-Birge. nykyinen	151171	22305	Manayunchia aestuarina	19.8	0
+1171	Ryssjeholmsfjärden	2015-10-20	Ekman-Birge. nykyinen	151171	22306	Marenzelleria spp.	72.61	1.17
+1171	Ryssjeholmsfjärden	2015-10-20	Ekman-Birge. nykyinen	151171	32400	Oligochaeta	19.8	0
+1171	Ryssjeholmsfjärden	2015-10-20	Ekman-Birge. nykyinen	151171	64066	Potamopyrgus antipodarum	66.01	0.22
+1171	Ryssjeholmsfjärden	2015-10-20	Ekman-Birge. nykyinen	151171	74412	Macoma balthica	244.22	3.47
+123	Stora Mickelskären	2015-09-29	van Veen	15123	11402	Halicryptus spinulosus	72.01	4.4
+123	Stora Mickelskären	2015-09-29	van Veen	15123	22306	Marenzelleria spp.	1386.14	5.92
+123	Stora Mickelskären	2015-09-29	van Veen	15123	32400	Oligochaeta	60.01	0
+123	Stora Mickelskären	2015-09-29	van Veen	15123	43302	Saduria entomon	15	3.42
+123	Stora Mickelskären	2015-09-29	van Veen	15123	43463	Monoporeia affinis	90.01	0.36
+123	Stora Mickelskären	2015-09-29	van Veen	15123	74412	Macoma balthica	402.04	57.95
+1259	Katajaluoto	2015-09-29	van Veen	151259	11402	Halicryptus spinulosus	27	0.02
+1259	Katajaluoto	2015-09-29	van Veen	151259	22306	Marenzelleria spp.	282.03	1.29
+1259	Katajaluoto	2015-09-29	van Veen	151259	32400	Oligochaeta	51.01	0.01
+1259	Katajaluoto	2015-09-29	van Veen	151259	43101	Mysis mixta	3	0.03
+1259	Katajaluoto	2015-09-29	van Veen	151259	43108	Neomysis integer	6	0
+1259	Katajaluoto	2015-09-29	van Veen	151259	43302	Saduria entomon	3	0.96
+1259	Katajaluoto	2015-09-29	van Veen	151259	43463	Monoporeia affinis	54.01	0.27
+1259	Katajaluoto	2015-09-29	van Veen	151259	64066	Potamopyrgus antipodarum	6	0
+1259	Katajaluoto	2015-09-29	van Veen	151259	74412	Macoma balthica	1254.13	47.94
+125P	Katajaluoto	2015-10-13	van Veen	15125	11402	Halicryptus spinulosus	108.01	3.64
+125P	Katajaluoto	2015-10-13	van Veen	15125	22305	Manayunchia aestuarina	9	0
+125P	Katajaluoto	2015-10-13	van Veen	15125	22306	Marenzelleria spp.	522.05	2.17
+125P	Katajaluoto	2015-10-13	van Veen	15125	32400	Oligochaeta	1758.18	0.3
+125P	Katajaluoto	2015-10-13	van Veen	15125	43108	Neomysis integer	6	0
+125P	Katajaluoto	2015-10-13	van Veen	15125	43302	Saduria entomon	6	3.02
+125P	Katajaluoto	2015-10-13	van Veen	15125	43401	Gammarus sp.	6	0
+125P	Katajaluoto	2015-10-13	van Veen	15125	43463	Monoporeia affinis	12	0.06
+125P	Katajaluoto	2015-10-13	van Veen	15125	64066	Potamopyrgus antipodarum	171.02	0.83
+125P	Katajaluoto	2015-10-13	van Veen	15125	64180	Limapontia capitata	21	0.01
+125P	Katajaluoto	2015-10-13	van Veen	15125	74412	Macoma balthica	1731.17	110.66
+147P	Knaperskär	2015-09-22	van Veen	15147	11402	Halicryptus spinulosus	66.01	1.01
+147P	Knaperskär	2015-09-22	van Veen	15147	22306	Marenzelleria spp.	879.09	3.84
+147P	Knaperskär	2015-09-22	van Veen	15147	32400	Oligochaeta	48	0
+147P	Knaperskär	2015-09-22	van Veen	15147	43302	Saduria entomon	9	5.84
+147P	Knaperskär	2015-09-22	van Veen	15147	43305	Jaera albifrons	3	0
+147P	Knaperskär	2015-09-22	van Veen	15147	43463	Monoporeia affinis	81.01	0.35
+147P	Knaperskär	2015-09-22	van Veen	15147	74412	Macoma balthica	630.06	73.78
+166	Pentarn	2015-11-09	van Veen	15166	22306	Marenzelleria spp.	444.04	5.4
+166	Pentarn	2015-11-09	van Veen	15166	32400	Oligochaeta	12	0
+166	Pentarn	2015-11-09	van Veen	15166	43302	Saduria entomon	6	4.66
+166	Pentarn	2015-11-09	van Veen	15166	43401	Gammarus sp.	6	0
+166	Pentarn	2015-11-09	van Veen	15166	43463	Monoporeia affinis	9	0.06
+181	Musta Hevonen	2015-10-12	van Veen	15181	32400	Oligochaeta	93.01	0.03
+181	Musta Hevonen	2015-10-12	van Veen	15181	64066	Potamopyrgus antipodarum	9	0.04
+181	Musta Hevonen	2015-10-12	van Veen	15181	64299	Gastropoda	3	0
+181	Musta Hevonen	2015-10-12	van Veen	15181	74412	Macoma balthica	6	3.2

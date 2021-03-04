@@ -1,0 +1,94 @@
+taksoni	ES50
+Oligochaeta	1
+Hediste diversicolor	5
+Eteone	10
+Byldiges sarsi	15
+Harmothoe sarsi	15
+Fabricia sabella	10
+Manayunkia aestuarina	10
+Marenzelleria	5
+Pygospio elegans	5
+Polydora ciliate	1
+Spio filicornis	10
+Streblospio benedicti	5
+Trochochaeta multisetosa	5
+Terebellides stroemi	10
+Arenicola marina	10
+Capitella	1
+Heteromastus filiformis	5
+Scoloplos armiger	10
+Crangon crangon	10
+Leptocheirus pilosus	5
+Leptochilus pilosus	5
+Corophium volutator	10
+Gammarus	10
+Bathyporeia pilosa	15
+Phoxocephalus holbolli	15
+Monoporeia affinis	15
+Pontoporeia femorata	15
+Diastylis rathkei	10
+Asellus aquaticus	5
+Jaera	15
+Saduria entomon	10
+Idotea balthica	5
+Idotea	10
+Heterotanais oerstedi	5
+Ostracoda	15
+Coleoptera	10
+Ceratopogonidae	5
+Chaoboridae	1
+Chironomidae	1
+Trichoptera	15
+Ephemeroptera	10
+Mya arenaria	10
+Cerastoderma glaucum	10
+Pisidium	15
+Sphaerium	10
+Macoma	5
+Mytilus edulis	5
+Mytilus trossulus	5
+Lymnaeidae	10
+Valvata macrostoma	5
+Valvata piscinalis	10
+Bithynia tentaculata	10
+Potamopyrgus antipodarum	10
+Hydrobiidae	5
+Littorina saxatilis	10
+Rissoa	15
+Retusa truncatula	15
+Limapontia	15
+Theodoxus fluviatilis	15
+Nemertea	10
+Prostoma obscurum	10
+Turbellaria	10
+Halicryptus spinulosus	15
+Priapulus caudatus	10
+Nematoda	999
+Nematomorpha	999
+Trematoda	999
+Acanthocephala	999
+Hirudinae	999
+Porifera	999
+Cnidaria	999
+Acarina	999
+Mysidacea	999
+Cladocera	999
+Copepoda	999
+Hyperia galba	999
+Cirripedia	999
+Branchiura	999
+Arachnidae	999
+Aurelia aurita	999
+Bivalvia	999
+Collembola	999
+Dytiscidae	999
+Harpaticoida	999
+Insecta	999
+Insecta larvae	999
+Mysidae	999
+Mysis mixta	999
+Mysis relicta	999
+Hemimysis anomala	999
+Neomysis integer	999
+Neomysis sp.	999
+Praunus inermis	999

@@ -1,0 +1,3 @@
+	alle10m	yli10m
+H'max	2.69	2.57
+BQImax	9.69	13.9

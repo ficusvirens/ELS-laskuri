@@ -1,0 +1,15 @@
+laji	vastaavuus
+Chironomus spp.	Chironomidae
+Chironomus plumosus-tyyppi	Chironomidae
+Chironomidae-pupae (kotelo)	Chironomidae
+Tanypodinae	Chironomidae
+Hydrobia sp.	Hydrobiidae
+Hydrobia ulvae	Hydrobiidae
+Idothea chelipes	Idotea
+Idothea balthica	Idotea balthica
+Lymnaea sp.	Lymnaeidae
+Manayunchia aestuarina	Manayunkia aestuarina
+Marenzelleria spp.	Marenzelleria
+Mysis relicta	Mysidae
+Mysis mixta	Mysidae
+Polydora redeki	Polydora ciliate

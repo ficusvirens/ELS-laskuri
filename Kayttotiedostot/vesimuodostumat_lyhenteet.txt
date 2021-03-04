@@ -1,0 +1,8 @@
+lyhenne	alue	sisa	tyyppi
+krs	Kruunuvuorenselka	TRUE	Ss
+sip	Sipoon saaristo	TRUE	Ss
+vil	Villinki	TRUE	Ss
+seu	Seurasaari	TRUE	Ss
+sul	Suvisaaristo-Lauttasaari	TRUE	Ss
+poh	Porvoo-Helsinki	FALSE	Su
+hep	Helsinki-Porkkala	FALSE	Su
